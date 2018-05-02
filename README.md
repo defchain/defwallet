@@ -1,2 +1,0 @@
-# defwallet
-Defensor Wallet
